@@ -76,6 +76,14 @@
       "symbol": "USUAL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/51091/standard/USUAL.jpg?1730035787"
+    },
+    {
+      "chainId": 1,
+      "address": "0x437cc33344a0B27A429f795ff6B469C72698B291",
+      "name": "WrappedM by M^0",
+      "symbol": "wM",
+      "decimals": 6,
+      "logoURI": "https://cdn.prod.website-files.com/6762be5b6c55f4c330bf115d/677d33de58eccf5acd737690_%24SmartM%20Ellipse-p-500.png"
     }
   ]
 }
