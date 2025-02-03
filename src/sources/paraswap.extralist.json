@@ -79,6 +79,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x866A2BF4E572CbcF37D5071A7a58503Bfb36be1b",
+      "name": "M by M^0",
+      "symbol": "M",
+      "decimals": 6,
+      "logoURI": "https://cdn.prod.website-files.com/6762be5b6c55f4c330bf115d/677d33d0fe114dbb8219507d_%24M%20Ellipse-p-500.png"
+    },
+    {
+      "chainId": 1,
       "address": "0x437cc33344a0B27A429f795ff6B469C72698B291",
       "name": "WrappedM by M^0",
       "symbol": "wM",
